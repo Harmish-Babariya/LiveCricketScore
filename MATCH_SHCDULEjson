@@ -1,0 +1,812 @@
+{
+  "scheduleAdWrapper": [
+    {
+      "matchScheduleMap": {
+        "date": "SAT, MAR 12 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Sri Lanka tour of India, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38627,
+                "seriesId": 3692,
+                "matchDesc": "2nd Test, Day 1",
+                "matchFormat": "TEST",
+                "startDate": "1647073800000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "imageId": 172115
+                },
+                "team2": {
+                  "teamId": 5,
+                  "teamName": "Sri Lanka",
+                  "teamSName": "SL",
+                  "imageId": 172119
+                },
+                "venueInfo": {
+                  "ground": "M.Chinnaswamy Stadium",
+                  "city": "Bengaluru",
+                  "timezone": "+05:30"
+                }
+              }
+            ],
+            "seriesId": 3692
+          },
+          {
+            "seriesName": "Australia tour of Pakistan, 2022",
+            "matchInfo": [
+              {
+                "matchId": 40353,
+                "seriesId": 3863,
+                "matchDesc": "2nd Test, Day 1",
+                "matchFormat": "TEST",
+                "startDate": "1647061200000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 3,
+                  "teamName": "Pakistan",
+                  "teamSName": "PAK",
+                  "imageId": 172116
+                },
+                "team2": {
+                  "teamId": 4,
+                  "teamName": "Australia",
+                  "teamSName": "AUS",
+                  "imageId": 172117
+                },
+                "venueInfo": {
+                  "ground": "National Stadium",
+                  "city": "Karachi",
+                  "timezone": "+05:00"
+                }
+              }
+            ],
+            "seriesId": 3863
+          },
+          {
+            "seriesName": "ICC Cricket World Cup League Two 2019-23",
+            "matchInfo": [
+              {
+                "matchId": 45541,
+                "seriesId": 2834,
+                "matchDesc": "6th Match",
+                "matchFormat": "ODI",
+                "startDate": "1647063000000",
+                "endDate": "1647129599000",
+                "team1": {
+                  "teamId": 7,
+                  "teamName": "United Arab Emirates",
+                  "teamSName": "UAE",
+                  "imageId": 172121
+                },
+                "team2": {
+                  "teamId": 161,
+                  "teamName": "Namibia",
+                  "teamSName": "NAM",
+                  "imageId": 172229
+                },
+                "venueInfo": {
+                  "ground": "Sharjah Cricket Stadium",
+                  "city": "Sharjah",
+                  "timezone": "+04:00"
+                }
+              }
+            ],
+            "seriesId": 2834
+          },
+          {
+            "seriesName": "England tour of West Indies, 2022",
+            "matchInfo": [
+              {
+                "matchId": 35877,
+                "seriesId": 3482,
+                "matchDesc": "1st Test, Day 5",
+                "matchFormat": "TEST",
+                "startDate": "1647093600000",
+                "endDate": "1647129599000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 9,
+                  "teamName": "England",
+                  "teamSName": "ENG",
+                  "imageId": 172123
+                },
+                "venueInfo": {
+                  "ground": "Sir Vivian Richards Stadium",
+                  "city": "North Sound, Antigua",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 3482
+          }
+        ],
+        "matchDate": "1647043200000"
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "adLayout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "SUN, MAR 13 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Sri Lanka tour of India, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38627,
+                "seriesId": 3692,
+                "matchDesc": "2nd Test, Day 2",
+                "matchFormat": "TEST",
+                "startDate": "1647160200000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "imageId": 172115
+                },
+                "team2": {
+                  "teamId": 5,
+                  "teamName": "Sri Lanka",
+                  "teamSName": "SL",
+                  "imageId": 172119
+                },
+                "venueInfo": {
+                  "ground": "M.Chinnaswamy Stadium",
+                  "city": "Bengaluru",
+                  "timezone": "+05:30"
+                }
+              }
+            ],
+            "seriesId": 3692
+          },
+          {
+            "seriesName": "Australia tour of Pakistan, 2022",
+            "matchInfo": [
+              {
+                "matchId": 40353,
+                "seriesId": 3863,
+                "matchDesc": "2nd Test, Day 2",
+                "matchFormat": "TEST",
+                "startDate": "1647147600000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 3,
+                  "teamName": "Pakistan",
+                  "teamSName": "PAK",
+                  "imageId": 172116
+                },
+                "team2": {
+                  "teamId": 4,
+                  "teamName": "Australia",
+                  "teamSName": "AUS",
+                  "imageId": 172117
+                },
+                "venueInfo": {
+                  "ground": "National Stadium",
+                  "city": "Karachi",
+                  "timezone": "+05:00"
+                }
+              }
+            ],
+            "seriesId": 3863
+          }
+        ],
+        "matchDate": "1647129600000"
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "MON, MAR 14 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Sri Lanka tour of India, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38627,
+                "seriesId": 3692,
+                "matchDesc": "2nd Test, Day 3",
+                "matchFormat": "TEST",
+                "startDate": "1647246600000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "imageId": 172115
+                },
+                "team2": {
+                  "teamId": 5,
+                  "teamName": "Sri Lanka",
+                  "teamSName": "SL",
+                  "imageId": 172119
+                },
+                "venueInfo": {
+                  "ground": "M.Chinnaswamy Stadium",
+                  "city": "Bengaluru",
+                  "timezone": "+05:30"
+                }
+              }
+            ],
+            "seriesId": 3692
+          },
+          {
+            "seriesName": "Australia tour of Pakistan, 2022",
+            "matchInfo": [
+              {
+                "matchId": 40353,
+                "seriesId": 3863,
+                "matchDesc": "2nd Test, Day 3",
+                "matchFormat": "TEST",
+                "startDate": "1647234000000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 3,
+                  "teamName": "Pakistan",
+                  "teamSName": "PAK",
+                  "imageId": 172116
+                },
+                "team2": {
+                  "teamId": 4,
+                  "teamName": "Australia",
+                  "teamSName": "AUS",
+                  "imageId": 172117
+                },
+                "venueInfo": {
+                  "ground": "National Stadium",
+                  "city": "Karachi",
+                  "timezone": "+05:00"
+                }
+              }
+            ],
+            "seriesId": 3863
+          },
+          {
+            "seriesName": "ICC Cricket World Cup League Two 2019-23",
+            "matchInfo": [
+              {
+                "matchId": 45546,
+                "seriesId": 2834,
+                "matchDesc": "7th Match (Rescheduled)",
+                "matchFormat": "ODI",
+                "startDate": "1647235800000",
+                "endDate": "1647302399000",
+                "team1": {
+                  "teamId": 304,
+                  "teamName": "Oman",
+                  "teamSName": "OMAN",
+                  "imageId": 172353
+                },
+                "team2": {
+                  "teamId": 161,
+                  "teamName": "Namibia",
+                  "teamSName": "NAM",
+                  "imageId": 172229
+                },
+                "venueInfo": {
+                  "ground": "Dubai International Cricket Stadium",
+                  "city": "Dubai",
+                  "timezone": "+04:00"
+                }
+              }
+            ],
+            "seriesId": 2834
+          }
+        ],
+        "matchDate": "1647216000000"
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "TUE, MAR 15 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Sri Lanka tour of India, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38627,
+                "seriesId": 3692,
+                "matchDesc": "2nd Test, Day 4",
+                "matchFormat": "TEST",
+                "startDate": "1647333000000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "imageId": 172115
+                },
+                "team2": {
+                  "teamId": 5,
+                  "teamName": "Sri Lanka",
+                  "teamSName": "SL",
+                  "imageId": 172119
+                },
+                "venueInfo": {
+                  "ground": "M.Chinnaswamy Stadium",
+                  "city": "Bengaluru",
+                  "timezone": "+05:30"
+                }
+              }
+            ],
+            "seriesId": 3692
+          },
+          {
+            "seriesName": "Australia tour of Pakistan, 2022",
+            "matchInfo": [
+              {
+                "matchId": 40353,
+                "seriesId": 3863,
+                "matchDesc": "2nd Test, Day 4",
+                "matchFormat": "TEST",
+                "startDate": "1647320400000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 3,
+                  "teamName": "Pakistan",
+                  "teamSName": "PAK",
+                  "imageId": 172116
+                },
+                "team2": {
+                  "teamId": 4,
+                  "teamName": "Australia",
+                  "teamSName": "AUS",
+                  "imageId": 172117
+                },
+                "venueInfo": {
+                  "ground": "National Stadium",
+                  "city": "Karachi",
+                  "timezone": "+05:00"
+                }
+              }
+            ],
+            "seriesId": 3863
+          },
+          {
+            "seriesName": "ICC Cricket World Cup League Two 2019-23",
+            "matchInfo": [
+              {
+                "matchId": 45551,
+                "seriesId": 2834,
+                "matchDesc": "1st Match",
+                "matchFormat": "ODI",
+                "startDate": "1647322200000",
+                "endDate": "1647388799000",
+                "team1": {
+                  "teamId": 7,
+                  "teamName": "United Arab Emirates",
+                  "teamSName": "UAE",
+                  "imageId": 172121
+                },
+                "team2": {
+                  "teamId": 287,
+                  "teamName": "Papua New Guinea",
+                  "teamSName": "PNG",
+                  "imageId": 172336
+                },
+                "venueInfo": {
+                  "ground": "Sharjah Cricket Stadium",
+                  "city": "Sharjah",
+                  "timezone": "+04:00"
+                }
+              }
+            ],
+            "seriesId": 2834
+          }
+        ],
+        "matchDate": "1647302400000"
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "adLayout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "WED, MAR 16 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Sri Lanka tour of India, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38627,
+                "seriesId": 3692,
+                "matchDesc": "2nd Test, Day 5",
+                "matchFormat": "TEST",
+                "startDate": "1647419400000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 2,
+                  "teamName": "India",
+                  "teamSName": "IND",
+                  "imageId": 172115
+                },
+                "team2": {
+                  "teamId": 5,
+                  "teamName": "Sri Lanka",
+                  "teamSName": "SL",
+                  "imageId": 172119
+                },
+                "venueInfo": {
+                  "ground": "M.Chinnaswamy Stadium",
+                  "city": "Bengaluru",
+                  "timezone": "+05:30"
+                }
+              }
+            ],
+            "seriesId": 3692
+          },
+          {
+            "seriesName": "Australia tour of Pakistan, 2022",
+            "matchInfo": [
+              {
+                "matchId": 40353,
+                "seriesId": 3863,
+                "matchDesc": "2nd Test, Day 5",
+                "matchFormat": "TEST",
+                "startDate": "1647406800000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 3,
+                  "teamName": "Pakistan",
+                  "teamSName": "PAK",
+                  "imageId": 172116
+                },
+                "team2": {
+                  "teamId": 4,
+                  "teamName": "Australia",
+                  "teamSName": "AUS",
+                  "imageId": 172117
+                },
+                "venueInfo": {
+                  "ground": "National Stadium",
+                  "city": "Karachi",
+                  "timezone": "+05:00"
+                }
+              }
+            ],
+            "seriesId": 3863
+          },
+          {
+            "seriesName": "ICC Cricket World Cup League Two 2019-23",
+            "matchInfo": [
+              {
+                "matchId": 45556,
+                "seriesId": 2834,
+                "matchDesc": "2nd Match",
+                "matchFormat": "ODI",
+                "startDate": "1647408600000",
+                "endDate": "1647475199000",
+                "team1": {
+                  "teamId": 287,
+                  "teamName": "Papua New Guinea",
+                  "teamSName": "PNG",
+                  "imageId": 172336
+                },
+                "team2": {
+                  "teamId": 72,
+                  "teamName": "Nepal",
+                  "teamSName": "NEP",
+                  "imageId": 172169
+                },
+                "venueInfo": {
+                  "ground": "Sharjah Cricket Stadium",
+                  "city": "Sharjah",
+                  "timezone": "+04:00"
+                }
+              }
+            ],
+            "seriesId": 2834
+          },
+          {
+            "seriesName": "England tour of West Indies, 2022",
+            "matchInfo": [
+              {
+                "matchId": 35878,
+                "seriesId": 3482,
+                "matchDesc": "2nd Test, Day 1",
+                "matchFormat": "TEST",
+                "startDate": "1647439200000",
+                "endDate": "1647820799000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 9,
+                  "teamName": "England",
+                  "teamSName": "ENG",
+                  "imageId": 172123
+                },
+                "venueInfo": {
+                  "ground": "Kensington Oval",
+                  "city": "Bridgetown, Barbados",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 3482
+          }
+        ],
+        "matchDate": "1647388800000"
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "THU, MAR 17 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "England tour of West Indies, 2022",
+            "matchInfo": [
+              {
+                "matchId": 35878,
+                "seriesId": 3482,
+                "matchDesc": "2nd Test, Day 2",
+                "matchFormat": "TEST",
+                "startDate": "1647525600000",
+                "endDate": "1647820799000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 9,
+                  "teamName": "England",
+                  "teamSName": "ENG",
+                  "imageId": 172123
+                },
+                "venueInfo": {
+                  "ground": "Kensington Oval",
+                  "city": "Bridgetown, Barbados",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 3482
+          }
+        ],
+        "matchDate": "1647475200000"
+      }
+    },
+    {
+      "matchScheduleMap": {
+        "date": "FRI, MAR 18 2022",
+        "matchScheduleList": [
+          {
+            "seriesName": "Bangladesh tour of South Africa, 2022",
+            "matchInfo": [
+              {
+                "matchId": 38432,
+                "seriesId": 3657,
+                "matchDesc": "1st ODI",
+                "matchFormat": "ODI",
+                "startDate": "1647601200000",
+                "endDate": "1647647999000",
+                "team1": {
+                  "teamId": 11,
+                  "teamName": "South Africa",
+                  "teamSName": "RSA",
+                  "imageId": 172126
+                },
+                "team2": {
+                  "teamId": 6,
+                  "teamName": "Bangladesh",
+                  "teamSName": "BAN",
+                  "imageId": 172120
+                },
+                "venueInfo": {
+                  "ground": "SuperSport Park",
+                  "city": "Centurion",
+                  "timezone": "+02:00"
+                }
+              }
+            ],
+            "seriesId": 3657
+          },
+          {
+            "seriesName": "ICC Cricket World Cup League Two 2019-23",
+            "matchInfo": [
+              {
+                "matchId": 45561,
+                "seriesId": 2834,
+                "matchDesc": "3rd Match",
+                "matchFormat": "ODI",
+                "startDate": "1647581400000",
+                "endDate": "1647647999000",
+                "team1": {
+                  "teamId": 7,
+                  "teamName": "United Arab Emirates",
+                  "teamSName": "UAE",
+                  "imageId": 172121
+                },
+                "team2": {
+                  "teamId": 72,
+                  "teamName": "Nepal",
+                  "teamSName": "NEP",
+                  "imageId": 172169
+                },
+                "venueInfo": {
+                  "ground": "Dubai International Cricket Stadium",
+                  "city": "Dubai",
+                  "timezone": "+04:00"
+                }
+              }
+            ],
+            "seriesId": 2834
+          },
+          {
+            "seriesName": "England tour of West Indies, 2022",
+            "matchInfo": [
+              {
+                "matchId": 35878,
+                "seriesId": 3482,
+                "matchDesc": "2nd Test, Day 3",
+                "matchFormat": "TEST",
+                "startDate": "1647612000000",
+                "endDate": "1647820799000",
+                "team1": {
+                  "teamId": 10,
+                  "teamName": "West Indies",
+                  "teamSName": "WI",
+                  "imageId": 172124
+                },
+                "team2": {
+                  "teamId": 9,
+                  "teamName": "England",
+                  "teamSName": "ENG",
+                  "imageId": 172123
+                },
+                "venueInfo": {
+                  "ground": "Kensington Oval",
+                  "city": "Bridgetown, Barbados",
+                  "timezone": "-04:00"
+                }
+              }
+            ],
+            "seriesId": 3482
+          }
+        ],
+        "matchDate": "1647561600000"
+      }
+    }
+  ],
+  "startDt": [
+    "1646748000000",
+    "1647073800000",
+    "1647061200000",
+    "1647063000000",
+    "1647235800000",
+    "1647322200000",
+    "1647439200000",
+    "1647408600000",
+    "1647601200000",
+    "1647581400000",
+    "1647667800000",
+    "1647763200000",
+    "1647838800000",
+    "1647840600000",
+    "1647927000000",
+    "1648033200000",
+    "1648130400000",
+    "1648188600000",
+    "1648530000000",
+    "1648504800000",
+    "1648713600000",
+    "1648702800000",
+    "1648875600000",
+    "1648861200000",
+    "1649034000000",
+    "1649152800000",
+    "1649404800000",
+    "1653985800000",
+    "1654164000000",
+    "1654158600000",
+    "1654331400000",
+    "1654781400000",
+    "1654855200000",
+    "1655040600000",
+    "1655213400000",
+    "1655472600000",
+    "1655454600000",
+    "1655645400000",
+    "1655627400000",
+    "1655886600000",
+    "1655978400000",
+    "1656241200000",
+    "1656414000000",
+    "1656669600000",
+    "1657215000000",
+    "1657373400000",
+    "1657474200000",
+    "1657445400000",
+    "1657620000000",
+    "1657618200000",
+    "1657800000000",
+    "1657877400000",
+    "1658059200000",
+    "1658142000000",
+    "1658232000000",
+    "1658314800000",
+    "1658491200000",
+    "1658487600000",
+    "1658656800000",
+    "1658943000000",
+    "1659029400000",
+    "1659274200000",
+    "1659524400000",
+    "1659697200000",
+    "1660730400000",
+    "1661421600000",
+    "1662631200000",
+    "1665892800000",
+    "1665907200000",
+    "1665979200000",
+    "1665993600000",
+    "1666065600000",
+    "1666080000000",
+    "1666152000000",
+    "1666166400000",
+    "1666238400000",
+    "1666252800000",
+    "1666324800000",
+    "1666339200000",
+    "1666422000000",
+    "1666436400000",
+    "1666497600000",
+    "1666512000000",
+    "1666584000000",
+    "1666598400000",
+    "1666695600000",
+    "1666756800000",
+    "1666771200000",
+    "1666839600000",
+    "1666854000000",
+    "1666868400000",
+    "1666929600000",
+    "1666944000000",
+    "1667030400000",
+    "1667098800000",
+    "1667113200000",
+    "1667127600000",
+    "1667203200000",
+    "1667275200000",
+    "1667289600000",
+    "1667361600000",
+    "1667376000000",
+    "1667462400000",
+    "1667534400000",
+    "1667548800000",
+    "1667635200000",
+    "1667692800000",
+    "1667707200000",
+    "1667721600000",
+    "1667980800000",
+    "1668067200000",
+    "1668326400000"
+  ],
+  "appIndex": {
+    "seoTitle": "Cricket Schedule - International, domestic and T20 matches - Cricbuzz",
+    "webURL": "www.cricbuzz.com/cricket-schedule/series"
+  }
+}

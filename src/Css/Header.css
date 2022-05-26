@@ -1,0 +1,5 @@
+.Header__options {
+    justify-content: space-around;
+    width: 50%;
+    overflow: scroll;
+}

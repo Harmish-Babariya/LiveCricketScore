@@ -1,0 +1,23 @@
+/* .CurrMatch__name {
+    justify-content: space-between;
+} */
+
+.CurrMatch__team1__img {
+    margin:0px 20px 0px 0px ;
+}
+
+.CurrMatch__team2__img {
+    margin: 0px 20px 0px 0px;
+}
+
+.CurrentMatch__Card:hover {
+    background-color: whitesmoke
+}
+
+.loadMore__btn {
+    background-color: #AA14F0;
+    border-radius: 4px;
+    border: none;
+    margin-top: 1rem;
+    padding: 5px 10px;
+}
